@@ -1,0 +1,30 @@
+C:\TRABAJOS PROGRAMACION\ProgramaCalculo\ProgramaCalculo\bin\Debug\ProgramaCalculo.exe.config
+C:\TRABAJOS PROGRAMACION\ProgramaCalculo\ProgramaCalculo\bin\Debug\ProgramaCalculo.exe
+C:\TRABAJOS PROGRAMACION\ProgramaCalculo\ProgramaCalculo\bin\Debug\ProgramaCalculo.pdb
+C:\TRABAJOS PROGRAMACION\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo.csproj.AssemblyReference.cache
+C:\TRABAJOS PROGRAMACION\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo.CalculadoraCa.resources
+C:\TRABAJOS PROGRAMACION\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo.Properties.Resources.resources
+C:\TRABAJOS PROGRAMACION\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo.csproj.GenerateResource.cache
+C:\TRABAJOS PROGRAMACION\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo.csproj.CoreCompileInputs.cache
+C:\TRABAJOS PROGRAMACION\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo.exe
+C:\TRABAJOS PROGRAMACION\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo.pdb
+C:\TRABAJOS PROGRAMACION\ProgramaCalculo\ProgramaCalculo\bin\Debug\OxyPlot.dll
+C:\TRABAJOS PROGRAMACION\ProgramaCalculo\ProgramaCalculo\bin\Debug\OxyPlot.WindowsForms.dll
+C:\TRABAJOS PROGRAMACION\ProgramaCalculo\ProgramaCalculo\bin\Debug\OxyPlot.xml
+C:\TRABAJOS PROGRAMACION\ProgramaCalculo\ProgramaCalculo\bin\Debug\OxyPlot.WindowsForms.xml
+C:\TRABAJOS PROGRAMACION\ProgramaCalculo\ProgramaCalculo\obj\Debug\Programa.F70BA035.Up2Date
+C:\Users\rmera\OneDrive\Documentos\ProgramaCalculo\ProgramaCalculo\bin\Debug\ProgramaCalculo.exe.config
+C:\Users\rmera\OneDrive\Documentos\ProgramaCalculo\ProgramaCalculo\bin\Debug\ProgramaCalculo.exe
+C:\Users\rmera\OneDrive\Documentos\ProgramaCalculo\ProgramaCalculo\bin\Debug\ProgramaCalculo.pdb
+C:\Users\rmera\OneDrive\Documentos\ProgramaCalculo\ProgramaCalculo\bin\Debug\OxyPlot.dll
+C:\Users\rmera\OneDrive\Documentos\ProgramaCalculo\ProgramaCalculo\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\rmera\OneDrive\Documentos\ProgramaCalculo\ProgramaCalculo\bin\Debug\OxyPlot.xml
+C:\Users\rmera\OneDrive\Documentos\ProgramaCalculo\ProgramaCalculo\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\rmera\OneDrive\Documentos\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo.csproj.AssemblyReference.cache
+C:\Users\rmera\OneDrive\Documentos\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo.CalculadoraCa.resources
+C:\Users\rmera\OneDrive\Documentos\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo.Properties.Resources.resources
+C:\Users\rmera\OneDrive\Documentos\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo.csproj.GenerateResource.cache
+C:\Users\rmera\OneDrive\Documentos\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo.csproj.CoreCompileInputs.cache
+C:\Users\rmera\OneDrive\Documentos\ProgramaCalculo\ProgramaCalculo\obj\Debug\Programa.F70BA035.Up2Date
+C:\Users\rmera\OneDrive\Documentos\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo.exe
+C:\Users\rmera\OneDrive\Documentos\ProgramaCalculo\ProgramaCalculo\obj\Debug\ProgramaCalculo.pdb
